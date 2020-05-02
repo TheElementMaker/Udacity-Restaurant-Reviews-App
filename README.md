@@ -2,7 +2,7 @@
 Have updated the website to be responsive and have tabindex
 
 ## Live Link
-**Live Page** [ClickHere]()
+**Live Page** [ClickHere](https://theelementmaker.github.io/Udacity-Restaurant-Reviews-App/)
 
 ## Running Localy
 Using the python http server module
