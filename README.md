@@ -1,5 +1,5 @@
 # Udacity Restaurant Reviews App
-Have updated the website to be responsive and have tabindex
+Updated the code to make the website responsive and take advantage of service workers
 
 ## Live Link
 **Live Page** [ClickHere](https://theelementmaker.github.io/Udacity-Restaurant-Reviews-App/)
